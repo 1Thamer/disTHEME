@@ -8,16 +8,19 @@
   font-size: 9px;
   margin-left: 3px;
 }
+/*
 /*chillax dev tag*/ /*demented elmo*/ /*Co Author*/
 [data-author-id="810543628307922955"] .username-h_Y3Us::after{
   content: "CL CO. AUTHOR"!important;
   color: rgb(255, 255, 255);
-  padding: 2px 10px!important;
+  padding: 1px 5px!important;
   background: #0005;
   border-radius: 5px;
   font-size: 9px;
   margin-left: 3px;
+  */
 }
+/*
 /*chillax dev tag*/ /*cedrick*/ /*Squad*/
 [data-author-id="899392812871733300"] .username-h_Y3Us::after{
   content: "CL SQUAD"!important;
@@ -27,4 +30,5 @@
   border-radius: 5px;
   font-size: 9px;
   margin-left: 3px;
+  */
 }
