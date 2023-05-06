@@ -158,7 +158,7 @@
   display: none !important;
 }
 .theme-light .wordmark-2u86JB::before {
-  content: "THAMER";
+  content: "THAMER AL-HUMAID";
   font-size: 12px;
   font-weight: 900;
   font-family: "Poiret one" !important;
@@ -174,7 +174,7 @@
   transition: 0.5s ease-in-out;
 }
 .wordmark-2u86JB:hover:before {
-  content: "THAMER";
+  content: "THAMER AL-HUMAID";
   letter-spacing: 2px;
 }
 /* button design*/
